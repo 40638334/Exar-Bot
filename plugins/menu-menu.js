@@ -397,51 +397,92 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟💵 _${usedPrefix}verificar_
 ° ඬ⃟💵 _${usedPrefix}unreg *<numero de serie>*_
 
-*<𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊/>*
+*♡;𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊🪸꒱⋆⑅˚*
 
-° ඬ⃟👽 _${usedPrefix}sticker *<responder a imagen o video>*_
-° ඬ⃟👽 _${usedPrefix}sticker *<enlace / link / url>*_
-° ඬ⃟👽 _${usedPrefix}s *<responder a imagen o video>*_
-° ඬ⃟👽 _${usedPrefix}s *<enlace / link / url>*_
-° ඬ⃟👽 _${usedPrefix}emojimix *<emoji 1>&<emoji 2>*_
-° ඬ⃟👽 _${usedPrefix}semoji *<tipo> <emoji>*_
-° ඬ⃟👽 _${usedPrefix}attp *<texto>*_
-° ඬ⃟👽 _${usedPrefix}ttp *<texto>*_
-° ඬ⃟👽 _${usedPrefix}pat *<@tag>*_
-° ඬ⃟👽 _${usedPrefix}slap *<@tag>_
-° ඬ⃟👽 _${usedPrefix}kiss *<@tag>*_
-° ඬ⃟👽 _${usedPrefix}dado_
-° ඬ⃟👽 _${usedPrefix}wm *<packname> <author>*_
-° ඬ⃟👽 _${usedPrefix}stickermarker *<efecto> <responder a imagen>*_
-° ඬ⃟👽 _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_
+ʚɞ `๑🪷┊ _${usedPrefix}sticker *<responder a imagen o video>*_ ♡
 
-*<𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊/>*
+ʚɞ `๑🪷┊ _${usedPrefix}sticker *<enlace / link / url>*_ ♡
 
-° ඬ⃟👑 _${usedPrefix}cajafuerte_
-° ඬ⃟👑 _${usedPrefix}enable *restrict*_
-° ඬ⃟👑 _${usedPrefix}disable *restrict*_
-° ඬ⃟👑 _${usedPrefix}enable *autoread*_
-° ඬ⃟👑 _${usedPrefix}disable *autoread*_
-° ඬ⃟👑 _${usedPrefix}enable *public*_
-° ඬ⃟👑 _${usedPrefix}disable *public*_
-° ඬ⃟👑 _${usedPrefix}enable *pconly*_
-° ඬ⃟👑 _${usedPrefix}disable *pconly*_
-° ඬ⃟👑 _${usedPrefix}enable *gconly*_
-° ඬ⃟👑 _${usedPrefix}disable *gconly*_
-° ඬ⃟👑 _${usedPrefix}banchat_
-° ඬ⃟👑 _${usedPrefix}unbanchat_
-° ඬ⃟👑 _${usedPrefix}banuser *<@tag>*_
-° ඬ⃟👑 _${usedPrefix}unbanuser *<@tag>*_
-° ඬ⃟👑 _${usedPrefix}banuser *<@tag>*_
-° ඬ⃟👑 _${usedPrefix}bc *<texto>*_
-° ඬ⃟👑 _${usedPrefix}bcchats *<texto>*_
-° ඬ⃟👑 _${usedPrefix}bcgc *<texto>*_
-° ඬ⃟👑 _${usedPrefix}cleartpm_
-° ඬ⃟👑 _${usedPrefix}restart_
-° ඬ⃟👑 _${usedPrefix}update_
-° ඬ⃟👑 _${usedPrefix}addprem *<@tag>*_
-° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
-° ඬ⃟👑 _${usedPrefix}listprem_
+ʚɞ `๑🪷┊ _${usedPrefix}s *<responder a imagen o video>*_ ♡
+
+ʚɞ `๑🪷┊ _${usedPrefix}s *<enlace / link / url>*_ ♡
+
+ʚɞ `๑🪷┊ _${usedPrefix}emojimix *<emoji 1>&<emoji 2>*_ ♡
+
+ʚɞ `๑🪷┊ _${usedPrefix}semoji *<tipo> <emoji>*_ ♡
+
+ʚɞ `๑🪷┊ _${usedPrefix}attp *<texto>*_♡
+
+ʚɞ `๑🪷┊ _${usedPrefix}ttp *<texto>*_ ♡
+
+ʚɞ `๑🪷┊ _${usedPrefix}pat *<@tag>*_ ♡
+
+ʚɞ `๑🪷┊ _${usedPrefix}slap *<@tag>_ ♡
+
+ʚɞ `๑🪷┊  _${usedPrefix}kiss *<@tag>*_♡
+
+ʚɞ `๑🪷┊ _${usedPrefix}dado_ ♡
+
+ʚɞ `๑🪷┊ _${usedPrefix}wm *<packname> <author>*_ ♡
+
+ʚɞ `๑🪷┊ _${usedPrefix}stickermarker *<efecto> <responder a imagen>*_♡
+
+ʚɞ `๑🪷┊ _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_ ♡
+
+
+*♡;𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊🦦꒱⋆⑅˚*
+
+🥗☞︎ _${usedPrefix}cajafuerte_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}enable *restrict*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}disable *restrict*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}enable *autoread*_ ☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}disable *autoread*_ ☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}enable *public*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}disable *public*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}enable *pconly*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}disable *pconly*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}enable *gconly*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}disable *gconly*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}banchat_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}unbanchat_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}banuser *<@tag>*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}unbanuser *<@tag>*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}banuser *<@tag>*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}bc *<texto>*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}bcchats *<texto>*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}bcgc *<texto>*_☜︎︎︎༄ 
+
+🥗☞︎ _${usedPrefix}cleartpm_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}restart_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}update_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}addprem *<@tag>*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}delprem *<@tag>*_☜︎︎︎༄
+
+🥗☞︎ _${usedPrefix}listprem_☜︎︎︎༄
+
+
 `.trim()
 conn.sendHydrated2(m.chat, str, wm, pp, 'https://www.paypal.me/TheShadowBrokers133', '𝙿𝙰𝚈𝙿𝙰𝙻', 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', [
 ['📮 𝙳𝙾𝙽𝙰𝚁 📮', '/donasi'],
