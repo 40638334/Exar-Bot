@@ -691,6 +691,33 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 
 ° ඬ⃟👽 _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_
 
+♡;𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊🦦꒱⋆⑅˚
+
+🥗☞︎ {usedPrefix}cajafuerte☜︎︎︎༄
+🥗☞︎ {usedPrefix}enable restrict☜︎︎︎༄
+🥗☞︎ {usedPrefix}disable restrict☜︎︎︎༄
+🥗☞︎ {usedPrefix}enable autoread ☜︎︎︎༄
+🥗☞︎ {usedPrefix}disable autoread ☜︎︎︎༄
+🥗☞︎ {usedPrefix}enable public☜︎︎︎༄
+🥗☞︎ {usedPrefix}disable public☜︎︎︎༄
+🥗☞︎  {usedPrefix}enable pconly☜︎︎︎༄
+🥗☞︎ {usedPrefix}disable pconly☜︎︎︎༄
+🥗☞︎ {usedPrefix}enable gconly☜︎︎︎༄
+🥗☞︎ {usedPrefix}disable gconly☜︎︎︎༄
+🥗☞︎ {usedPrefix}banchat☜︎︎︎༄
+🥗☞︎ {usedPrefix}unbanchat☜︎︎︎༄
+🥗☞︎ {usedPrefix}banuser <@tag>☜︎︎︎༄
+🥗☞︎ {usedPrefix}unbanuser <@tag>☜︎︎︎༄
+🥗☞︎ {usedPrefix}banuser <@tag>☜︎︎︎༄
+🥗☞︎ {usedPrefix}bc <texto>☜︎︎︎༄
+🥗☞︎ {usedPrefix}bcchats <texto>☜︎︎︎༄
+🥗☞︎ {usedPrefix}bcgc <texto>☜︎︎︎༄ 
+🥗☞︎ {usedPrefix}cleartpm☜︎︎︎༄
+🥗☞︎ {usedPrefix}restart☜︎︎︎༄
+🥗☞︎ {usedPrefix}update☜︎︎︎༄
+🥗☞︎ {usedPrefix}addprem <@tag>☜︎︎︎༄
+🥗☞︎ {usedPrefix}delprem <@tag>☜︎︎︎༄
+🥗☞︎ {usedPrefix}listprem☜︎︎︎༄
 
 
 `.trim()
