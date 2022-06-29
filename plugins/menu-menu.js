@@ -691,57 +691,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 
 ° ඬ⃟👽 _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_
 
-*<𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊/>*
 
-° ඬ⃟👑 _${usedPrefix}cajafuerte_
-
-° ඬ⃟👑 _${usedPrefix}enable *restrict*_
-
-° ඬ⃟👑 _${usedPrefix}disable *restrict*_
-
-° ඬ⃟👑 _${usedPrefix}enable *autoread*_
-
-° ඬ⃟👑 _${usedPrefix}disable *autoread*_
-
-° ඬ⃟👑 _${usedPrefix}enable *public*_
-
-° ඬ⃟👑 _${usedPrefix}disable *public*_
-
-° ඬ⃟👑 _${usedPrefix}enable *pconly*_
-
-° ඬ⃟👑 _${usedPrefix}disable *pconly*_
-
-° ඬ⃟👑 _${usedPrefix}enable *gconly*_
-
-° ඬ⃟👑 _${usedPrefix}disable *gconly*_
-
-° ඬ⃟👑 _${usedPrefix}banchat_
-
-° ඬ⃟👑 _${usedPrefix}unbanchat_
-
-° ඬ⃟👑 _${usedPrefix}banuser *<@tag>*_
-
-° ඬ⃟👑 _${usedPrefix}unbanuser *<@tag>*_
-
-° ඬ⃟👑 _${usedPrefix}banuser *<@tag>*_
-
-° ඬ⃟👑 _${usedPrefix}bc *<texto>*_
-
-° ඬ⃟👑 _${usedPrefix}bcchats *<texto>*_
-
-° ඬ⃟👑 _${usedPrefix}bcgc *<texto>*_
-
-° ඬ⃟👑 _${usedPrefix}cleartpm_
-
-° ඬ⃟👑 _${usedPrefix}restart_
-
-° ඬ⃟👑 _${usedPrefix}update_
-
-° ඬ⃟👑 _${usedPrefix}addprem *<@tag>*_
-
-° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
-
-° ඬ⃟👑 _${usedPrefix}listprem_
 
 `.trim()
 conn.sendHydrated2(m.chat, str, wm, pp, 'https://www.paypal.me/TheShadowBrokers133', '𝙿𝙰𝚈𝙿𝙰𝙻', 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', [
