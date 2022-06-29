@@ -63,30 +63,6 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
     
 
 let str = `
-╭┈ˍ‒ˍ‒ˍ‒ˍ‒┥🥗┝‒ˍ‒ˍ‒ˍ‒ˍ┈╮
-╎               
-╰╶╶ ▻  𝙷𝙾𝙻𝙰 ✨${name}✨, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 𝚃𝙷𝙴 𝙼𝚈𝚂𝚃𝙸𝙲 - 𝙱𝙾𝚃 
-╰◦·◦·◦·◦·◦·◦·◦·◦·◦·◦·◦·◦·◦·◦·◦·◦·◦➸(🌻)
-
-ᥬ🖋 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}⌑🖋ᬊ
-
-ᥬ🖋 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}⌑🖋ᬊ
-
-ᥬ🖋 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}⌑🖋ᬊ
-
-⇨⊹🌾｟𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀𝕆ℕ 𝔻𝔼𝕃 𝔹𝕆𝕋🌾⊹
-
-│⪩💫 ${usedPrefix}grupos
-│➤💫 ${usedPrefix}estado
-│⪩💫 ${usedPrefix}infobot
-│➤💫 ${usedPrefix}donar
-│⪩💫 ${usedPrefix}grouplist
-│➤💫 ${usedPrefix}owner
-│⪩💫 ${usedPrefix}script
-
-Bot (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)✏️ ೃ
-
-ˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇ
 
 ♡;ℂℍ𝔸𝕋 𝔸ℕ𝕆ℕ𝕀𝕄𝕆🐝꒱⋆⑅˚
 
@@ -96,8 +72,6 @@ Bot (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)✏️ ೃ
      ╰─►೫` ${usedPrefix}next⚜️
 • . .
      ╰─►೫` ${usedPrefix}leave ⚜️
-     
-
 ♡;𝔹𝕌𝕊ℂ𝔸𝔻𝕆ℝ𝔼𝕊🦁꒱⋆⑅˚
 
 𖨆+✨ ${usedPrefix}xnxxsearch <texto>
