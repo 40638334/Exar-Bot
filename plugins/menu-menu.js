@@ -631,51 +631,40 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 
 ° ඬ⃟🛠️ _${usedPrefix}traducir *<texto>*_
 
-*<ℝℙ𝔾 - 𝕃𝕀𝕄𝕀𝕋𝔼𝕊 - 𝔼ℂ𝕆ℕ𝕆𝕄𝕀𝔸/>*
+⋆♡;ℝℙ𝔾 - 𝕃𝕀𝕄𝕀𝕋𝔼𝕊 - 𝔼ℂ𝕆ℕ𝕆𝕄𝕀𝔸🪺꒱⋆⑅˚
 
-° ඬ⃟💵 _${usedPrefix}balance_
+𝄢💰 ${usedPrefix}balance♮ 
+𝄢💰 ${usedPrefix}claim♮
+𝄢💰 ${usedPrefix}top♮
+𝄢💰 ${usedPrefix}levelup♮
+𝄢💰 ${usedPrefix}myns♮
+𝄢💰 ${usedPrefix}perfil♮
+𝄢💰 ${usedPrefix}work♮
+𝄢💰 ${usedPrefix}minar♮
+𝄢💰 ${usedPrefix}buy♮
+𝄢💰 ${usedPrefix}buyall ♮
+𝄢💰 ${usedPrefix}transfer <tipo> <cantidad> <@tag>♮
+𝄢💰 ${usedPrefix}verificar♮
+𝄢💰 ${usedPrefix}unreg <numero de serie>♮
 
-° ඬ⃟💵 _${usedPrefix}claim_
+<𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊/>
 
-° ඬ⃟💵 _${usedPrefix}top_
-
-° ඬ⃟💵 _${usedPrefix}levelup_
-
-° ඬ⃟💵 _${usedPrefix}myns_
-
-° ඬ⃟💵 _${usedPrefix}perfil_
-
-° ඬ⃟💵 _${usedPrefix}work_
-
-° ඬ⃟💵 _${usedPrefix}minar_
-
-° ඬ⃟💵 _${usedPrefix}buy_
-
-° ඬ⃟💵 _${usedPrefix}buyall_
-
-° ඬ⃟💵 _${usedPrefix}transfer *<tipo> <cantidad> <@tag>*_
-
-° ඬ⃟💵 _${usedPrefix}verificar_
-
-° ඬ⃟💵 _${usedPrefix}unreg *<numero de serie>*_
-
-♡;𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊🪸꒱⋆⑅˚
-
-ʚɞ `๑🪷┊ {usedPrefix}sticker <responder a imagen o video> ♡
-ʚɞ `๑🪷┊ {usedPrefix}sticker <enlace / link / url> ♡
-ʚɞ `๑🪷┊ {usedPrefix}s <responder a imagen o video> ♡
-ʚɞ `๑🪷┊ {usedPrefix}s <enlace / link / url> ♡
-ʚɞ `๑🪷┊ {usedPrefix}emojimix <emoji 1>&<emoji 2> ♡
-ʚɞ `๑🪷┊ {usedPrefix}semoji <tipo> <emoji> ♡
-ʚɞ `๑🪷┊ {usedPrefix}attp <texto>♡
-ʚɞ `๑🪷┊ {usedPrefix}ttp <texto> ♡
-ʚɞ `๑🪷┊ {usedPrefix}pat <@tag> ♡
-ʚɞ `๑🪷┊ {usedPrefix}slap *<@tag> ♡
-ʚɞ `๑🪷┊  {usedPrefix}kiss <@tag>♡
-ʚɞ `๑🪷┊ {usedPrefix}dado ♡
-ʚɞ `๑🪷┊ {usedPrefix}wm <packname> <author> ♡
-ʚɞ `๑🪷┊ {usedPrefix}stickermarker <efecto> <responder a imagen>♡
-ʚɞ `๑🪷┊ {usedPrefix}stickerfilter <efecto> <responder a imagen> ♡
+° ඬ⃟👽 ${usedPrefix}sticker <responder a imagen o video>
+° ඬ⃟👽 ${usedPrefix}sticker <enlace / link / url>
+° ඬ⃟👽 ${usedPrefix}s <responder a imagen o video>
+° ඬ⃟👽 ${usedPrefix}s <enlace / link / url>
+° ඬ⃟👽 ${usedPrefix}emojimix <emoji 1>&<emoji 2>
+° ඬ⃟👽 ${usedPrefix}semoji <tipo> <emoji>
+° ඬ⃟👽 ${usedPrefix}attp <texto>
+° ඬ⃟👽 ${usedPrefix}ttp <texto>
+° ඬ⃟👽 ${usedPrefix}pat <@tag>
+° ඬ⃟👽 ${usedPrefix}slap *<@tag>
+° ඬ⃟👽 ${usedPrefix}kiss <@tag>
+° ඬ⃟👽 ${usedPrefix}dado
+° ඬ⃟👽 ${usedPrefix}wm <packname> <author>
+° ඬ⃟👽 ${usedPrefix}stickermarker <efecto> <responder a imagen>
+° ඬ⃟👽 ${usedPrefix}stickerfilter <efecto> <responder a imagen>
+ 
 ♡;𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊🦦꒱⋆⑅˚
 
 🥗☞︎ {usedPrefix}cajafuerte☜︎︎︎༄
